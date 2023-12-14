@@ -1,0 +1,32 @@
+.container {
+    background-image: url('../img/hero-img.jpg');
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 700px;
+    background-size: contain;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 15px 45px;
+    background-color: #0D6EFD;
+    border-radius: 50px;
+    font-size: 20px;
+    margin-left: 390px;
+}
+
+.mainText {
+    text-align: center;
+    color: white;
+    font-size: 70px;
+    margin-top: 200px;
+}
+
+.altText {
+    color: white;
+    width: 310px;
+    text-align: center;
+    margin-left: 335px;
+    margin-top: -50px;
+}

@@ -1,0 +1,103 @@
+body {
+    margin-left: 150px;
+    margin-top: 75px;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 2px solid lightgray;
+    width: 740px;
+}
+
+.faq1 {
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+}
+
+.faqImg {
+    margin-left: 450px;
+    width: 15px;
+}
+
+.faq2 {
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    width: 740px;
+}
+
+.faq2Img {
+    margin-left: 507px;
+    width: 15px;
+}
+
+.faq3 {
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    width: 740px;
+}
+
+.faq3lorem {
+    font-weight: normal;
+    width: 650px;
+    padding-bottom: 15px;
+    /* display: none */
+}
+
+.faq3Img {
+    margin-left: 453px;
+    width: 15px;
+}
+
+.faq4 {
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    border-top: 2px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    width: 740px;
+}
+
+.faq4Img {
+    margin-left: 433px;
+    width: 15px;
+}
+
+.faq5 {
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    border-bottom: 2px solid lightgray;
+    width: 740px;
+}
+
+.faq5Img {
+    margin-left: 468px;
+    width: 15px;
+}
+
+.faq6 {
+    font-weight: bold;
+    display: flex;
+    cursor: pointer;
+    border-bottom: 2px solid lightgray;
+    width: 740px;
+}
+
+.faq6Img {
+    margin-left: 595px;
+    width: 15px;
+}
+
+.visible {
+    display: block;
+}

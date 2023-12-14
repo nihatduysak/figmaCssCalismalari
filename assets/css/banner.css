@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    padding: 20px;
+}
+
+.hero {
+    background-color: #E6F0FF;
+    color: black;
+    padding: 50px 50px;
+    width: 820px;
+    font-size: x-large;
+    border-radius: 16px;
+    background-image: url(../img/banner-illustration.png);
+    background-repeat: no-repeat;
+    background-position: 580px;
+}
+
+.hero h1, .hero h3 {
+    width: 400px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 15px 45px;
+    background-color: #0D6EFD;
+    border-radius: 50px;
+    font-size: 30px;
+}

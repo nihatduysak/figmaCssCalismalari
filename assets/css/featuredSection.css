@@ -1,0 +1,45 @@
+.main {
+    background-color: #212121;
+    width: 1040px;
+    height: 383px;
+    padding-left: 60px;
+    padding-top: 110px;
+    line-height: 35px;
+}
+
+.keyboard {
+    width: 560px;
+    height: 286px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 480px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: #0D6EFD;
+    padding: 6px 30px;
+    border-radius: 3px;
+}
+
+.text {
+    color: white;
+    font-size: 35px;
+    width: 300px;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile img {
+    border-radius: 50%;
+    height: 40px;
+}
+
+.fullName {
+    color: lightgray;
+    font-size: 15px;
+    margin-left: 20px;
+}

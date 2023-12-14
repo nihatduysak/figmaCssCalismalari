@@ -1,0 +1,23 @@
+body {
+    width: 960px;
+    height: 720px;
+}
+
+.head {
+    margin-left: 70px;
+}
+
+.container h1 {
+    text-align: left;
+    width: 600px;
+    padding: 0px;
+}
+
+.container h5 {
+    background-image: url('https://randomuser.me/api/portraits/men/91.jpg');
+    background-position: 0px;
+    background-repeat: no-repeat;
+    background-image: image-set();
+    background-size: 2%;
+    padding: 10px 25px;
+}

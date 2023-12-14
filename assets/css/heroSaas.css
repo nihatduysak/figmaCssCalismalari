@@ -1,0 +1,49 @@
+body {
+    background-color: #05285B;
+}
+
+.container {
+    display: flex;
+}
+
+.heroPP {
+    width: 350px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.hero .title {
+    color: white;
+    font-size: 50px;
+    width: 250px;
+    line-height: 40px;
+}
+
+.text {
+    margin-left: 100px;
+    color: white;
+    width: 320px;
+}
+
+.finalStage {
+    margin-top: 25px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: #DC3545;
+    padding: 10px 55px;
+    border-radius: 1px;
+}
+
+.calender {
+    display: flex;
+    margin-top: 25px;
+}
+
+.calender p {
+    margin-left: 15px;
+    color: lightgrey;
+}
